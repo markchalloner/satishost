@@ -1,10 +1,10 @@
 {
     "name": "Satis Host",
-    "homepage": "https://github.com/markchalloner/satishost",
+    "homepage": "https://raw.githubusercontent.com/markchalloner/satishost/master/web/",
     "archive": {
         "directory": "dist",
-        "format": "tar",
-        "prefix-url": "https://github.com/markchalloner/satishost",
+        "format": "zip",
+        "prefix-url": "https://raw.githubusercontent.com/markchalloner/satishost/master/web/",
         "skip-dev": true
     },
     "repositories": [
@@ -16,7 +16,7 @@
                 "version": "0.1.0",
                 "dist": {
                     "type": "zip",
-                    "url": "dist/demo.zip"
+                    "url": "dist/markchalloner-satishostdemo-0.1.0.zip"
                 }
             }
         }

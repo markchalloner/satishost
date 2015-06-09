@@ -1,0 +1,18 @@
+{
+    "packages": {
+        "markchalloner/satishostdemo": {
+            "0.1.0": {
+                "name": "markchalloner/satishostdemo",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://raw.githubusercontent.com/markchalloner/satishost/master/web//dist/markchalloner-satishostdemo-0.1.0.tar",
+                    "reference": null,
+                    "shasum": "91c2328022742d1aacd0ebbcdd2e635612d4a830"
+                },
+                "type": "library"
+            }
+        }
+    }
+}
