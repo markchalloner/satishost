@@ -3,7 +3,7 @@
     "homepage": "https://raw.githubusercontent.com/markchalloner/satishost/master/web/",
     "archive": {
         "directory": "dist",
-        "format": "zip",
+        "format": "tar",
         "prefix-url": "https://raw.githubusercontent.com/markchalloner/satishost/master/web/",
         "skip-dev": true
     },
