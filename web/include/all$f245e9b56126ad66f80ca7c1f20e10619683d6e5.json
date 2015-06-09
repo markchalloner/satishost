@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "stilliard/composer-package-boilerplate": {
+            "dev-master": {
+                "name": "stilliard/composer-package-boilerplate",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/stilliard/composer-package-boilerplate.git",
+                    "reference": "3930adad6900dd6f184921b69a247e4497f19cd1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/stilliard/composer-package-boilerplate/zipball/3930adad6900dd6f184921b69a247e4497f19cd1",
+                    "reference": "3930adad6900dd6f184921b69a247e4497f19cd1",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3"
+                },
+                "time": "2015-01-19 13:23:13",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Demo\\": "src",
+                        "Demo\\Tests\\": "tests"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Andrew Stilliard",
+                        "email": "andrew.stilliard@gmail.com"
+                    }
+                ],
+                "description": "Demo",
+                "support": {
+                    "source": "https://github.com/stilliard/composer-package-boilerplate/tree/master",
+                    "issues": "https://github.com/stilliard/composer-package-boilerplate/issues"
+                }
+            }
+        }
+    }
+}

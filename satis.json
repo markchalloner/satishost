@@ -1,0 +1,14 @@
+{
+    "name": "Satis Host",
+    "homepage": "https://github.com/markchalloner/satishost",
+    "archive": {
+        "directory": "dist",
+        "format": "tar",
+        "prefix-url": "https://github.com/markchalloner/satishost",
+        "skip-dev": true
+    },
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/stilliard/composer-package-boilerplate" }
+    ],
+    "require-all": true
+}
