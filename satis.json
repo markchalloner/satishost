@@ -8,7 +8,18 @@
         "skip-dev": true
     },
     "repositories": [
-        { "type": "vcs", "url": "https://github.com/stilliard/composer-package-boilerplate" }
+        {
+            "_comment": "Demo packages", 
+            "type": "package",
+            "package": {
+                "name": "markchalloner/satishostdemo",
+                "version": "0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "dist/demo.zip"
+                }
+            }
+        }
     ],
     "require-all": true
 }
